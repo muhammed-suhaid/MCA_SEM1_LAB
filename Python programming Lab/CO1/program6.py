@@ -1,4 +1,4 @@
-lst=["suhaid","navaneeth","meghana","yasin"]
+lst=["suhaid","navaneeth","meghana","rohit","yasin"]
 toatalA=0
 for word in lst:
     a=word.count("a")

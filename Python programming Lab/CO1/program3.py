@@ -16,7 +16,7 @@ for i in range(1,n+1):
 print()
 
 #section c
-str="suhaid"
+str="alhan"
 lst=[]
 for s in str:
     if s in ["a","e","i","o","u","A","E","I","O","U"]:

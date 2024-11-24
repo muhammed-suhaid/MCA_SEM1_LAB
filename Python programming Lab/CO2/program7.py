@@ -1,8 +1,9 @@
 str="gam"
    
 if str.endswith("ing"):
-    str=str+"ly"
+    str1=str+"ly"
 else:
-    str=str+"ing"
+    str1=str+"ing"
 
-print(str)
+print(f"Given string = {str}")
+print(str1)
